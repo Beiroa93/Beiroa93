@@ -53,8 +53,6 @@ I am also familiar with **containerized environments** using **Docker and Kubern
 
 ## 📊 Stats
 
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=beiroa93)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=beiroa93" alt="GitHub Streak" /></a>
 ![Chukulun's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chukulun&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
